@@ -1,0 +1,17 @@
+
+
+
+.col{
+    width: auto;
+    margin: 2;
+    padding:20px ;
+    border: 5px;
+    border-radius: 5px;
+    border-style: dashed;
+    border-color: pink;
+    border-width: 5px;
+}
+
+.row{
+    margin: 2px; 
+}
